@@ -103,6 +103,9 @@ public class SystemSettings {
         Settings.System.ENABLE_RIPPLE_EFFECT,
         Settings.System.VOLUME_KEY_CURSOR_CONTROL,
         Settings.System.TORCH_POWER_BUTTON_GESTURE,
-        Settings.System.QS_PANEL_STYLE
+        Settings.System.QS_PANEL_STYLE,
+        Settings.System.OMNIJAWS_WEATHER_ICON_PACK,
+        Settings.System.OMNI_LOCKSCREEN_WEATHER_ENABLED,
+        Settings.System.LOCKSCREEN_WEATHER_STYLE,
     };
 }
